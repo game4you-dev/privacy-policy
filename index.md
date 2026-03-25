@@ -76,7 +76,7 @@ Your information, including Personal Data, is processed at our servers hosted on
 All communication between the Application and our Server is encrypted via SSL/WSS. We utilize strong encryption (such as BCrypt for passwords) and encrypt sensitive security data (like IP and `ANDROID_ID`) in our databases. While We strive to use commercially acceptable means to protect Your Personal Data, no method of transmission over the Internet is 100% secure, and We cannot guarantee its absolute security.
 
 ## Children's Privacy
-Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13.
+Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
 
 ## Changes to this Privacy Policy
 We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
