@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated: March 25, 2026**
+**Last updated: March 26, 2026**
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -33,7 +33,7 @@ For the purposes of this Privacy Policy:
 You can use the Application as a guest without providing any personal information. However, if You choose to optionally register an account to save your progress permanently, We collect the following:
 * **Username (Nickname)**
 * **Password** (For Your security, Your password is cryptographically hashed on Your device using BCrypt before being transmitted. We never see or store Your plain-text password).
-* **Account Security & Support Data:** During registration and subsequent account logins, Your device sends its `ANDROID_ID`, device model, Android operating system version, and IP address to our servers, where this information is securely encrypted and stored. This data is collected exclusively for security purposes (such as verifying the country of login to prevent fraud) and to allow our support team to manually verify Your identity and account ownership if You lose access and contact us for assistance at **game4you.helper@gmail.com**.
+* **Account Security & Support Data:** During registration and subsequent account logins, Your device sends its `ANDROID_ID`, device model, Android operating system version, and IP address to our servers, where this information is securely encrypted and stored. This data is collected exclusively for security purposes (such as verifying the country of login to prevent fraud) and to allow our support team to manually verify Your identity and account ownership if You lose access and contact us for assistance at **<game4you.helper@gmail.com>**.
 
 #### Data Collected Automatically (Including Guest Users)
 When You launch or use the Application, We automatically collect certain information to create Your profile and ensure the game functions correctly:
@@ -64,7 +64,7 @@ The Company may use Personal Data for the following purposes:
 The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy.
 
 **Account Deletion:**
-You have the right to delete Your Account and the Personal Data We have collected about You. You can request account deletion directly within the Application's settings menu (Settings -> Delete Account), or by contacting us with a deletion request at **game4you.helper@gmail.com**.
+You have the right to delete Your Account and the Personal Data We have collected about You. You can request account deletion directly within the Application's settings menu (Settings -> Delete Account), or by contacting us with a deletion request at **<game4you.helper@gmail.com>**.
 *Note: If requesting deletion via email, because We do not link accounts to email addresses, You must include specific account details in Your request (such as Your username, device information, IP region, or recent match history) so We can verify Your identity. If the provided information is insufficient, We reserve the right to request additional details to confirm You are the true owner of the account.*
 
 **Grace Period:** When You initiate account deletion, Your account enters a 5-day grace period. During these 5 days, You can cancel the deletion process. If not canceled, after 5 days, Your identifying data, stats, inventory, and associated in-game currency will be permanently removed from our active servers, except where retention is strictly necessary to comply with legal obligations.
@@ -82,4 +82,4 @@ Our Service does not address anyone under the age of 13. We do not knowingly col
 We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
 
 ## Contact Us
-If you have any questions about this Privacy Policy, You can contact us by email: **game4you.helper@gmail.com**
+If you have any questions about this Privacy Policy, You can contact us by email: **<game4you.helper@gmail.com>**
